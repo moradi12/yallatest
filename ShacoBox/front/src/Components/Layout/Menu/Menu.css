@@ -1,0 +1,8 @@
+.Menu {
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  font-size: 16px; /* Increased font size for links */
+}

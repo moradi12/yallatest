@@ -1,0 +1,23 @@
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: center;
+  font-style: italic;
+  color: black;
+  background-image: linear-gradient(45deg, rgb(218, 241, 241), white);
+  font-size: 18px; /* Increased font size */
+}
+
+body {
+  padding: 20px; /* Added space around the body */
+}
+
+.Box {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 30px; /* Increased padding inside the box */
+  margin: 20px; /* Increased margin around the box */
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+}
